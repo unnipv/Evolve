@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20181103T030000Z
+DTEND:20181103T113000Z
+DTSTAMP:20181008T192817Z
+ORGANIZER;CN=Unnikrishnan P V:mailto:unnimonpv@gmail.com
+UID:c8r6cp1j74rmcb9g74pjeb9kcph62bb16sq64b9jchim2cj261j3aohnck@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Unnikrishnan P V;X-NUM-GUESTS=0:mailto:unnimonpv@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=me17b173@smail.iitm.ac.in;X-NUM-GUESTS=0:mailto:me17b173@smail.iitm
+ .ac.in
+CREATED:20181008T183057Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nView your event at https://www.google.com/calendar/event?action=VIEW&
+ eid=YzhyNmNwMWo3NHJtY2I5Zzc0cGplYjlrY3BoNjJiYjE2c3E2NGI5amNoaW0yY2oyNjFqM2F
+ vaG5jayBtZTE3YjE3M0BzbWFpbC5paXRtLmFjLmlu&tok=MTkjdW5uaW1vbnB2QGdtYWlsLmNvb
+ TdmMzg5Yzc2NzI1ODRjNzAwNTQ2Yjg2ZGY1ZTRmYzdjZGE1YWJiODM&ctz=Asia%2FCalcutta&
+ hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20181008T192817Z
+LOCATION:IC&SR Building IIT Madras\, Near Gajendra Circle\, Opposite to Adm
+ in Building\, Indian Institute Of Technology\, Adyar\, Indian Institute Of 
+ Technology\, Chennai\, Tamil Nadu 600036\, India
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Amazon Alexa Women Developors' Workshop
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
